@@ -32,3 +32,6 @@ After modifications:
   - **An even stress distribution**.
 - **Conclusion**: I improved structural integrity by analysis of the general L-bracket model, and implemented techniques that I have learned to improve deformation with material efficiency, stress path optimization, and load path simplifications.
 ---
+
+![image](https://github.com/user-attachments/assets/a51155f0-e46b-4a2a-b6b5-3917572feb9d)
+
